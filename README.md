@@ -1,2 +1,3 @@
-# Responsive-ev-website-Vistas-
-prototype website using html,css,javascript for an electric vehicle dealer "Vistas"
+# Responsive electric car website
+This responsive website project about electric cars was designed and developed using HTML, CSS, and Javascript.
+I hope you guys enjoy this demo project =)
